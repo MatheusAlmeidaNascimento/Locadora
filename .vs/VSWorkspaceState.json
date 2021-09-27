@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Locadora\\bin",
+    "\\Locadora\\bin\\Debug",
+    "\\Locadora\\bin\\Debug\\net5.0",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes\\unix",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes\\unix\\lib",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes\\unix\\lib\\netcoreapp2.1",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes\\win",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes\\win\\lib",
+    "\\Locadora\\bin\\Debug\\net5.0\\runtimes\\win\\lib\\netcoreapp2.1",
+    "\\Locadora\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}

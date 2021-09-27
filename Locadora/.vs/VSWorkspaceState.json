@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net5.0",
+    "\\bin\\Release\\net5.0",
+    "\\Controllers",
+    "\\Domains",
+    "\\obj\\Debug\\net5.0",
+    "\\obj\\Debug\\net5.0\\ref",
+    "\\obj\\Debug\\net5.0\\staticwebassets",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Repositories\\AluguelRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
